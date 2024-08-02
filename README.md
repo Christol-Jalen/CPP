@@ -6,4 +6,4 @@
 3. [977.有序数组的平方（冒泡排序法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/977.cpp) | [题目](https://leetcode.cn/problems/squares-of-a-sorted-array/description/)
 
 ## 链表
-1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) [题目](https://leetcode.cn/problems/remove-linked-list-elements/description/)
+1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) | [题目](https://leetcode.cn/problems/remove-linked-list-elements/description/)
