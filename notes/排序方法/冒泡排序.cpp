@@ -2,40 +2,28 @@
 #include <vector>
 using namespace std;
 
-// Created by GPT4
-
-// 函数用于执行冒泡排序
-void bubbleSort(vector<int>& vec, int n) {
-    bool swapped;
-    for (int i = 0; i < n-1; i++) {
-        swapped = false;
-        for (int j = 0; j < n-i-1; j++) {
-            if (vec[j] > vec[j+1]) {
-                swap(vec[j], vec[j+1]);
-                swapped = true;
+// 冒泡排序算法
+// 参考：https://www.bilibili.com/video/BV13J411L72U/?spm_id_from=333.337.search-card.all.click&vd_source=484a3458b6bda710858441cb85eb3ad7
+vector<int> bubble_sort(vector<int>& vec) {
+    int length = vec.size();
+    for (int i = 0; i < length - 1; i++) { // 外层循环控制排序轮数
+        for (int j = 0; j < length - 1 - i; j++) { // 内层循环进行相邻元素比较
+            if (vec[j] > vec[j + 1]) { // 如果顺序错误，则交换
+                swap(vec[j], vec[j + 1]);
             }
         }
-
-        // 如果这一趟没有发生交换，说明数组已经排序好了
-        if (!swapped)
-            break;
     }
-}
-
-// 函数用于打印数组
-void printVector(vector<int> vec, int size) {
-    for (int i = 0; i < size; i++) {
-        cout << vec[i] << " ";
-    }
-    cout << endl;
+    return vec;
 }
 
 // 主函数
 int main() {
     vector<int> vec = {64, 34, 25, 12, 22, 11, 90};
-    int n = vec.size();
-    bubbleSort(vec, n);
+    bubble_sort(vec);
     cout << "Sorted array: ";
-    printVector(vec, n);
+    for(int i=0; i<vec.size(); i++){
+        cout << vec[i] << " ";
+    }
+    cout << endl;
     return 0;
 }
