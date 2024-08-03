@@ -10,3 +10,4 @@
 ## 链表
 1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0203.移除链表元素.md)
 2. [206.反转链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/206.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.翻转链表.md)
+3. [707.设计链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/707.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0707.设计链表.md)
