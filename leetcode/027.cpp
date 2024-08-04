@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 
-class Solution{
+class Solution{ //双指针法（快慢指针）
 public:
     int removeElement(vector<int> &nums, int &val){
         int slow = 0;
