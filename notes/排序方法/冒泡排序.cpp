@@ -2,9 +2,10 @@
 #include <vector>
 using namespace std;
 
-// 冒泡排序算法
+
 // 参考：https://www.bilibili.com/video/BV13J411L72U/?spm_id_from=333.337.search-card.all.click&vd_source=484a3458b6bda710858441cb85eb3ad7
-vector<int> bubble_sort(vector<int>& vec) {
+
+void bubble_sort(vector<int>& vec) {
     int length = vec.size();
     for (int i = 0; i < length - 1; i++) { // 外层循环控制排序轮数
         for (int j = 0; j < length - 1 - i; j++) { // 内层循环进行相邻元素比较
@@ -13,7 +14,6 @@ vector<int> bubble_sort(vector<int>& vec) {
             }
         }
     }
-    return vec;
 }
 
 // 主函数

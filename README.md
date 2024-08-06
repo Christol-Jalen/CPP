@@ -23,7 +23,11 @@
 ## 双指针法
 
 ## 栈与队列
+1. [151.翻转字符串里的单词(栈方法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/151.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.翻转字符串里的单词.md)
 
 ## 二叉树
 1. [144.二叉树的前序遍历(递归法、迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/144.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/二叉树的迭代遍历.md)
 2. [102.二叉树的层序遍历(迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.二叉树的层序遍历.md)
+
+## 回溯
+1. [077.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
