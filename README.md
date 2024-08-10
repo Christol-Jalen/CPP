@@ -32,3 +32,6 @@
 
 ## 回溯
 1. [077.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
+
+## 动态规划
+1. [牛客网WY32.买苹果](https://github.com/Christol-Jalen/CPP/blob/main/ACM/2.买苹果.cpp) ｜ [ref](https://www.nowcoder.com/practice/61cfbb2e62104bc8aa3da5d44d38a6ef?tpId=182&tqId=34306&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D182&difficulty=undefined&judgeStatus=undefined&tags=&title=)
