@@ -16,6 +16,7 @@
 1. [242.有效异位字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/242.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.有效的字母异位词.md)
 2. [1002.查找常用字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1002.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1002.查找常用字符.md)
 3. [349. 两个数组的交集](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.两个数组的交集.md)
+4. [202.快乐数](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.快乐数.md)
 
 ## 字符串
 1. [344.反转字符串](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/344.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.反转字符串.md)
@@ -30,6 +31,7 @@
 ## 二叉树
 1. [144.二叉树的前序遍历(递归法、迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/144.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/二叉树的迭代遍历.md)
 2. [102.二叉树的层序遍历(迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.二叉树的层序遍历.md)
+3. [226.翻转二叉树](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/226.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.翻转二叉树.md)
 
 ## 回溯
 1. [077.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
