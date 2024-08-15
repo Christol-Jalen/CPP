@@ -15,6 +15,7 @@
 ## 哈希表
 1. [242.有效异位字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/242.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.有效的字母异位词.md)
 2. [1002.查找常用字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1002.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1002.查找常用字符.md)
+3. [349. 两个数组的交集](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.两个数组的交集.md)
 
 ## 字符串
 1. [344.反转字符串](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/344.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.反转字符串.md)
