@@ -32,6 +32,7 @@
 1. [144.二叉树的前序遍历(递归法、迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/144.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/二叉树的迭代遍历.md)
 2. [102.二叉树的层序遍历(迭代法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.二叉树的层序遍历.md)
 3. [226.翻转二叉树](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/226.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.翻转二叉树.md)
+4. [104.二叉树的最大深度(层序遍历法 + 回溯法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/104.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.二叉树的最大深度.md)
 
 ## 回溯
 1. [077.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
