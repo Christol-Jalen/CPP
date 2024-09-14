@@ -37,7 +37,7 @@
 
 ## 回溯
 1. [077.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/102.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
-2. [698.划分为k个相等的子集](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/698.cpp) | [ref](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/)
+2. [698.划分为k个相等的子集(vivo笔试)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/698.cpp) | [ref](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/)
 
 ## 贪心
 1. [135.分发糖果](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/135.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0135.分发糖果.md)
