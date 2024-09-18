@@ -27,6 +27,7 @@
 ## 双指针法
 1. [15.三数之和(if vs else if)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/015.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.三数之和.md)
 2. [42.接雨水](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/042.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0042.接雨水.md)
+3. [283.移动零](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/283.cpp) | [ref](https://leetcode.cn/problems/move-zeroes/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 栈与队列
 1. [151.翻转字符串里的单词(栈方法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/151.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.翻转字符串里的单词.md)
