@@ -7,6 +7,7 @@
 4. [209.长度最小的子数组](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/209.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.长度最小的子数组.md)
 5. [058.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
 
+
 ## 链表
 1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0203.移除链表元素.md)
 2. [206.反转链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/206.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.翻转链表.md)
@@ -22,7 +23,8 @@
 
 ## 字符串
 1. [344.反转字符串](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/344.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.反转字符串.md)
-
+2. [3.无重复字符的最长子串(滑动窗口、unordered_set)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp)
+| [ref](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 双指针法
 1. [15.三数之和(if vs else if)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/015.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.三数之和.md)
