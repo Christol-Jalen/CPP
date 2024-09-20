@@ -20,6 +20,7 @@
 4. [202.快乐数](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.快乐数.md)
 5. [49.字母异位词分组(unordered_map法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/049.cpp) | [ref](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked) 
 6. [128.最长连续序列](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/128.cpp) | [ref](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-100-liked)
+7. [438. 找到字符串中所以字符异位词](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/438.cpp) | [ref](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 字符串
 1. [344.反转字符串](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/344.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.反转字符串.md)
