@@ -5,14 +5,15 @@
 2. [27.移除元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/027.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.移除元素.md)
 3. [977.有序数组的平方(冒泡排序法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/977.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0977.有序数组的平方.md)
 4. [209.长度最小的子数组](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/209.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.长度最小的子数组.md)
-5. [058.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
-6. [054.螺旋矩阵](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/054.cpp) ｜ [ref](https://leetcode.cn/problems/spiral-matrix/solutions/7155/cxiang-xi-ti-jie-by-youlookdeliciousc-3/?envType=study-plan-v2&envId=top-100-liked)
+5. [58.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
+6. [54.螺旋矩阵（优雅法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/054.cpp) ｜ [ref](https://leetcode.cn/problems/spiral-matrix/solutions/7155/cxiang-xi-ti-jie-by-youlookdeliciousc-3/?envType=study-plan-v2&envId=top-100-liked)
 
 
 ## 链表
 1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0203.移除链表元素.md)
 2. [206.反转链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/206.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.翻转链表.md)
 3. [707.设计链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/707.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0707.设计链表.md)
+4. [146.LRU缓存](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/146.cpp) ｜ [ref](https://leetcode.cn/problems/lru-cache/solutions/259678/lruhuan-cun-ji-zhi-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 哈希表
 1. [242.有效异位字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/242.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.有效的字母异位词.md)
