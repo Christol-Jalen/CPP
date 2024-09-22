@@ -13,7 +13,7 @@
 1. [203.移除链表元素](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/203.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0203.移除链表元素.md)
 2. [206.反转链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/206.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.翻转链表.md)
 3. [707.设计链表](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/707.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0707.设计链表.md)
-4. [146.LRU缓存](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/146.cpp) ｜ [ref](https://leetcode.cn/problems/lru-cache/solutions/259678/lruhuan-cun-ji-zhi-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
+4. [146.LRU缓存(unordered_map + 双向链表)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/146.cpp) ｜ [ref](https://leetcode.cn/problems/lru-cache/solutions/259678/lruhuan-cun-ji-zhi-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 哈希表
 1. [242.有效异位字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/242.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.有效的字母异位词.md)
