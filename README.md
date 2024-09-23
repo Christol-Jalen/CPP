@@ -48,6 +48,7 @@
 2. [216.组合总和III](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/216.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0216.组合总和III.md)
 3, [46.全排列](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/46.cpp) ｜ [ref](https://leetcode.cn/problems/permutations/?envType=study-plan-v2&envId=top-100-liked)
 4. [698.划分为k个相等的子集(vivo笔试)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/698.cpp) | [ref](https://leetcode.cn/problems/partition-to-k-equal-sum-subsets/description/)
+5. [78.子集（回溯法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/078.cpp) | [ref](https://leetcode.cn/problems/subsets/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 贪心
 1. [135.分发糖果](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/135.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0135.分发糖果.md)
