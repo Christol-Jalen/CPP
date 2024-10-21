@@ -54,6 +54,7 @@
 6. [17.电话号码的字母组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/017.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0017.电话号码的字母组合.md)
 7. [39.组合总和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/039.cpp) ｜ [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0039.组合总和.md)
 8. [22.括号生成](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/022.cpp) | [ref](https://leetcode.cn/problems/generate-parentheses/description/?envType=study-plan-v2&envId=top-100-liked)
+9. [131.分割回串文](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/131.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0131.分割回文串.md)
 
 ## 贪心
 1. [135.分发糖果](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/135.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0135.分发糖果.md)
