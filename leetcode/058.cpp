@@ -1,3 +1,4 @@
+// 卡码网58.区间和
 #include "head.h"
 
  void method_violent(){

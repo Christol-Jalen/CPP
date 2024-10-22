@@ -1,3 +1,4 @@
+// 分发糖果
 #include <iostream>
 #include <vector>
 using namespace std;
