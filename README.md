@@ -64,6 +64,9 @@
 ## 动态规划
 1. [牛客网WY32.买苹果](https://github.com/Christol-Jalen/CPP/blob/main/ACM/2.买苹果.cpp) | [ref](https://www.nowcoder.com/practice/61cfbb2e62104bc8aa3da5d44d38a6ef?tpId=182&tqId=34306&rp=1&ru=/exam/oj&qru=/exam/oj&sourceUrl=%2Fexam%2Foj%3Fpage%3D1%26tab%3DSQL%25E7%25AF%2587%26topicId%3D182&difficulty=undefined&judgeStatus=undefined&tags=&title=)
 2. [198.打家劫舍](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/198.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0198.打家劫舍.md)
+3. [213.打家劫舍](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/213.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0213.打家劫舍II.md)
+4. [121.股票买卖的最佳时机](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/121.cpp) | [ref](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
+5. [122.股票买卖的最佳时机II](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/122.cpp) | [ref](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
 
 ## 图论
 1. [200.岛屿数量(深搜+广搜)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/200.cpp) | [ref](https://leetcode.cn/problems/number-of-islands/submissions/574755779/?envType=study-plan-v2&envId=top-100-liked)
