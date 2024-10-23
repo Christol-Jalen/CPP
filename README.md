@@ -68,6 +68,9 @@
 3. [213.打家劫舍II](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/213.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0213.打家劫舍II.md)
 4. [121.股票买卖的最佳时机](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/121.cpp) | [ref](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
 5. [122.股票买卖的最佳时机II](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/122.cpp) | [ref](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
+6. [509.斐波那契数](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/509.cpp) | [ref](https://leetcode.cn/problems/fibonacci-number/description/)
+7. [70.爬楼梯](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/070.cpp) | [ref](https://leetcode.cn/problems/climbing-stairs/)
+8. [746.使用最小花费爬楼梯](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/746.cpp) | [ref](https://leetcode.cn/problems/min-cost-climbing-stairs/description/)
 
 ## 图论
 1. [200.岛屿数量(深搜+广搜)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/200.cpp) | [ref](https://leetcode.cn/problems/number-of-islands/submissions/574755779/?envType=study-plan-v2&envId=top-100-liked)
