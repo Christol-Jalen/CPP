@@ -8,6 +8,7 @@
 5. [卡码网58.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
 6. [54.螺旋矩阵（优雅法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/054.cpp) | [ref](https://leetcode.cn/problems/spiral-matrix/solutions/7155/cxiang-xi-ti-jie-by-youlookdeliciousc-3/?envType=study-plan-v2&envId=top-100-liked)
 7. [1004.最大连续1的个数III（滑动窗口法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1104.cpp) | [ref](https://leetcode.cn/problems/max-consecutive-ones-iii/solutions/2126631/hua-dong-chuang-kou-yi-ge-shi-pin-jiang-yowmi/)
+8. [56.合并区间]((https://github.com/Christol-Jalen/CPP/blob/main/leetcode/056.cpp)) | [ref](https://leetcode.cn/problems/merge-intervals/solutions/203562/he-bing-qu-jian-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
 
 
 ## 链表
@@ -47,6 +48,7 @@
 3. [226.翻转二叉树](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/226.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.翻转二叉树.md)
 4. [104.二叉树的最大深度(层序遍历法 + 回溯法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/104.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.二叉树的最大深度.md)
 5. [543.二叉树的直径](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/543.cpp) | [ref](https://leetcode.cn/problems/diameter-of-binary-tree/description/?envType=study-plan-v2&envId=top-100-liked)
+6. [98.验证二叉搜索树](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/098.cpp) | [ref](https://leetcode.cn/problems/validate-binary-search-tree/solutions/230256/yan-zheng-er-cha-sou-suo-shu-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 回溯
 1. [77.组合](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/077.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.组合.md)
