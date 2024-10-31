@@ -8,7 +8,7 @@ using namespace std;
 void bubble_sort(vector<int>& vec) {
     int length = vec.size();
     for (int i = 0; i < length - 1; i++) { // 外层循环控制排序轮数
-        for (int j = 0; j < length - 1 - i; j++) { // 内层循环进行相邻元素比较， 没经过i轮外层循环，都会有i个最大元素被放到数组末尾
+        for (int j = 0; j < length - 1; j++) { // 内层循环进行相邻元素比较
             if (vec[j] > vec[j + 1]) { // 如果顺序错误，则交换
                 swap(vec[j], vec[j + 1]);
             }
@@ -27,3 +27,5 @@ int main() {
     cout << endl;
     return 0;
 }
+
+
