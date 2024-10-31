@@ -8,7 +8,8 @@
 5. [卡码网58.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
 6. [54.螺旋矩阵（优雅法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/054.cpp) | [ref](https://leetcode.cn/problems/spiral-matrix/solutions/7155/cxiang-xi-ti-jie-by-youlookdeliciousc-3/?envType=study-plan-v2&envId=top-100-liked)
 7. [1004.最大连续1的个数III(滑动窗口法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1104.cpp) | [ref](https://leetcode.cn/problems/max-consecutive-ones-iii/solutions/2126631/hua-dong-chuang-kou-yi-ge-shi-pin-jiang-yowmi/)
-8. [56.合并区间]((https://github.com/Christol-Jalen/CPP/blob/main/leetcode/056.cpp)) | [ref](https://leetcode.cn/problems/merge-intervals/solutions/203562/he-bing-qu-jian-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
+8. [56.合并区间](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/056.cpp) | [ref](https://leetcode.cn/problems/merge-intervals/solutions/203562/he-bing-qu-jian-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
+9. [53.最大子序列和(kadane算法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/053.cpp) | [ref](https://leetcode.cn/problems/maximum-subarray/submissions/574345637/)
 
 
 ## 链表
