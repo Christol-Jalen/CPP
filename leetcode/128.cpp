@@ -17,7 +17,6 @@ public:
             
             if (!set1.count(num - 1)) {  //优化： 只从一个连续序列的第一个数开始用while循环检查是否连续
                 int curNum = num;
-                curLongest = 1;
 
                 while(set1.count(curNum+1)){
                 curNum++;

@@ -30,7 +30,7 @@ private:
             }
             else continue; // 不是回串文
 
-            backTrack(s, i+1);
+            backTrack(s, i+1); // 寻找i+1为起始位置的子串
             path.pop_back();
         }
     }

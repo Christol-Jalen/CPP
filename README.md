@@ -24,10 +24,10 @@
 1. [242.有效异位字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/242.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.有效的字母异位词.md)
 2. [1002.查找常用字符](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1002.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1002.查找常用字符.md)
 3. [349.两个数组的交集](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.两个数组的交集.md)
-4. [202.快乐数](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/349.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.快乐数.md)
+4. [202.快乐数](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/202.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.快乐数.md)
 5. [49.字母异位词分组(unordered_map法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/049.cpp) | [ref](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked) 
 6. [128.最长连续序列](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/128.cpp) | [ref](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-100-liked)
-7. [438.找到字符串中所以字符异位词](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/438.cpp) | [ref](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked)
+7. [438.找到字符串中所有字符异位词](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/438.cpp) | [ref](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked)
 8. [2780.合法分割的最小下标(华为面试)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/2780.cpp) | [ref](https://leetcode.cn/problems/minimum-index-of-a-valid-split/solutions/2345820/ling-huo-yun-yong-liang-ge-ha-xi-biao-mi-h1s8/)
 9. [1.两数之和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/001.cpp) | [ref](https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetcode-solution/)
 
