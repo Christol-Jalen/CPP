@@ -23,6 +23,7 @@
 #include <functional> //函数对象，包括function和bind。
 #include <iterator> //迭代器。
 #include <cmath> //数学函数。
+#include <climits>  // 包含 INT_MIN 和 INT_MAX
 // 并发编程相关:
 #include <thread> //线程。
 #include <mutex> //互斥量。
