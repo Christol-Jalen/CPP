@@ -1,4 +1,5 @@
 // 53.最大子序列和
+#include <climits>
 using namespace std;
 
 class Solution1 { // kadane算法
