@@ -7,7 +7,7 @@
 4. [209.长度最小的子数组](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/209.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.长度最小的子数组.md)
 5. [卡码网58.区间和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/058.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/kamacoder/0058.区间和.md)
 6. [54.螺旋矩阵（优雅法）](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/054.cpp) | [ref](https://leetcode.cn/problems/spiral-matrix/solutions/7155/cxiang-xi-ti-jie-by-youlookdeliciousc-3/?envType=study-plan-v2&envId=top-100-liked)
-7. [1004.最大连续1的个数III(滑动窗口法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1104.cpp) | [ref](https://leetcode.cn/problems/max-consecutive-ones-iii/solutions/2126631/hua-dong-chuang-kou-yi-ge-shi-pin-jiang-yowmi/)
+7. [1004.最大连续1的个数III(滑动窗口法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/1004.cpp) | [ref](https://leetcode.cn/problems/max-consecutive-ones-iii/solutions/2126631/hua-dong-chuang-kou-yi-ge-shi-pin-jiang-yowmi/)
 8. [56.合并区间](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/056.cpp) | [ref](https://leetcode.cn/problems/merge-intervals/solutions/203562/he-bing-qu-jian-by-leetcode-solution/?envType=study-plan-v2&envId=top-100-liked)
 9. [53.最大子序列和(kadane算法)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/053.cpp) | [ref](https://leetcode.cn/problems/maximum-subarray/submissions/574345637/)
 
@@ -29,6 +29,7 @@
 6. [128.最长连续序列](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/128.cpp) | [ref](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-100-liked)
 7. [438.找到字符串中所以字符异位词](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/438.cpp) | [ref](https://leetcode.cn/problems/find-all-anagrams-in-a-string/description/?envType=study-plan-v2&envId=top-100-liked)
 8. [2780.合法分割的最小下标(华为面试)](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/2780.cpp) | [ref](https://leetcode.cn/problems/minimum-index-of-a-valid-split/solutions/2345820/ling-huo-yun-yong-liang-ge-ha-xi-biao-mi-h1s8/)
+9. [1.两数之和](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/001.cpp) | [ref](https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetcode-solution/)
 
 ## 字符串
 1. [344.反转字符串](https://github.com/Christol-Jalen/CPP/blob/main/leetcode/344.cpp) | [ref](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.反转字符串.md)
